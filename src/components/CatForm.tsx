@@ -1,7 +1,6 @@
 import React from "react";
 import { useMutation, useQueryClient } from "@tanstack/react-query";
 import { useForm } from "react-hook-form";
-import axios from "axios";
 
 type FormValues = {
   // Definindo os tipos dos dados do formulário
