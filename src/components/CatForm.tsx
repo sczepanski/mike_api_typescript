@@ -128,7 +128,8 @@ const CatForm: React.FC = () => {
           <p className="italic text-sm font-thin text-stone-500 text-wrap">
             Página atualiza para indicar que o cache do formulário foi limpo.
             <br />
-            Não insere nada pois a API não fornece a opção de POST.
+            Não insere nada pois a API não fornece a opção de POST. Porém, foi
+            simulado o POST.
             <br />
             Considere checar o log para visualizar melhor as informações.
           </p>
